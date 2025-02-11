@@ -8,3 +8,7 @@ anybody can join my project.
 
 ![screenshot](./pic/Screenshot%202025-02-11%20184254.png)
 
+## contribution
+
+![screenshot](./pic/contributions.png)
+
